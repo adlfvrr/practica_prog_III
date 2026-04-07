@@ -1,0 +1,18 @@
+1_ No son válidas:
+a) No se especifica un tipo de variable.
+c) "Class" no es un tipo de variable.
+e) No es "público" (es public). No se especifica tipo de variable.
+f) No se especifica ni modificador ni tipo de variable.
+g) No se puede utilizar una palabra reservada como nombre de variable.
+h) No se puede utilizar una palabra reservada como nombre de variable.
+
+2_ No son válidas:
+a) Las dobles comillas indican String (cadena de texto, en caso de char se utilizan comillas simples '').
+c) Funciona, pero se utiliza L seguido del long (miLong = 1L).
+d) Se debe especificar f seguido del float (10.3f).
+h) Boolean solo admite true/false.
+
+3_ Son correctas:
+a) iii. Se pasan dos parametros a sumar y devuelve un entero (resultado de la suma).
+b) i. Se utiliza un void para realizar una actualización, en este caso un incremento según el argumento.
+c) iii. Si bien no tiene un modificador, devuelve una cadena de caracteres (String).
